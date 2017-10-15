@@ -1,0 +1,14 @@
+.page-header {
+    overflow: hidden;
+    height: 62vh;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-position: center center;
+    background-size: cover;
+}
+
+.page-header .container {
+    padding-top: 10vh;
+    color: #fff;
+}
