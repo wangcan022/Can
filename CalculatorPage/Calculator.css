@@ -1,0 +1,261 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 14px;
+}
+
+th {
+    background-color: #53bca4;
+    color: white;
+}
+
+div#rainfall-data table>tbody>tr>td{
+	padding: 3px 6px;
+	text-align: start;
+}
+
+/* The final result button */
+.button3 {
+    background: #53bca4;
+	position: relative;
+    margin: 10px 1px;
+    border: none;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 400;
+    white-space: normal;
+    letter-spacing: 0;
+    text-transform: uppercase;
+	width: 74px;
+	height: 40px;
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+	padding: initial;
+}
+
+.button3:hover {
+    position: relative;
+    margin: 10px 1px;
+    border: none;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 400;
+    white-space: normal;
+    letter-spacing: 0;
+    text-transform: uppercase;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+/* Rainfall search */
+input[type="submit"]#searchID{ 
+    background: #53bca4;
+	position: relative;
+    margin: 10px 1px;
+    border: none;
+    border-radius: 10px;
+    font-size: 13px;
+    font-weight: 400;
+    white-space: normal;
+    letter-spacing: 0;
+    text-transform: uppercase;
+	height: 40px;
+	width: 74px;
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+	padding: initial;
+    }
+
+
+input[type="submit"]#searchID:hover{ 
+	position: relative;
+    margin: 10px 1px;
+    border: none;
+    border-radius: 10px;
+    font-size: 13px;
+    font-weight: 400;
+    white-space: normal;
+    letter-spacing: 0;
+    text-transform: uppercase;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+
+input[type="submit"]#Mod0CancelRecord{ 
+    background: #53bca4;
+	position: relative;
+    margin: 10px 1px;
+    border: none;
+    border-radius: 10px;
+    font-size: 12px;
+    font-weight: 400;
+    white-space: normal;
+    letter-spacing: 0;
+    text-transform: uppercase;
+	width: 74px;
+	height: 40px;
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+	padding: initial;
+    }
+
+
+input[type="submit"]#Mod0CancelRecord:hover{ 
+	position: relative;
+    margin: 10px 1px;
+    border: none;
+    border-radius: 10px;
+    font-size: 13px;
+    font-weight: 400;
+    white-space: normal;
+    letter-spacing: 0;
+    text-transform: uppercase;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+
+    }
+
+input[type="text"]#cbDSField1{
+	border: 0.5px solid #a59999;
+	border-radius: 4px;
+    background: white;
+	width: 34%;
+}
+/* Calculator Reset Button */
+
+.cp_cff_pastel #fbuilder input[type="reset"]#fieldname9_1{ 
+    background: #ff6666;
+	position: relative;
+    margin: 10px 1px;
+    border: none;
+    border-radius: 10px;
+    font-size: 12px;
+    font-weight: 400;
+    white-space: normal;
+    letter-spacing: 0;
+    text-transform: uppercase;
+	width: 67px;
+	height: 38px;
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+	padding: initial;
+    }
+
+
+.cp_cff_pastel #fbuilder input[type="reset"]#fieldname9_1:hover{ 
+    background: #ff6666;
+	position: relative;
+    margin: 10px 1px;
+    border: none;
+    border-radius: 10px;
+    font-size: 12px;
+    font-weight: 400;
+    white-space: normal;
+    letter-spacing: 0;
+    text-transform: uppercase;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+	width: 67px;
+    }
+
+.cp_cff_pastel #fbuilder input[type="reset"]#fieldname9_2{ 
+    background: #ff6666;
+	position: relative;
+    margin: 10px 1px;
+    border: none;
+    border-radius: 10px;
+    font-size: 12px;
+    font-weight: 400;
+    white-space: normal;
+    letter-spacing: 0;
+    text-transform: uppercase;
+	width: 67px;
+	height: 38px;
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+	padding: initial;
+    }
+
+
+.cp_cff_pastel #fbuilder input[type="reset"]#fieldname9_2:hover{ 
+    background: #ff6666;
+	position: relative;
+    margin: 10px 1px;
+    border: none;
+    border-radius: 10px;
+    font-size: 12px;
+    font-weight: 400;
+    white-space: normal;
+    letter-spacing: 0;
+    text-transform: uppercase;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+	width: 67px;
+    }
+.form-group {
+    padding-bottom: 0;
+    position: relative;
+	margin-bottom: 0;
+}
+
+div .cp_cff_pastel #fbuilder {
+    padding: 20px;
+    background: #F9FCFE;
+    border-radius: 8px;
+    color: #333;
+}
+/* Calculatro instruction */
+div .cp_cff_pastel #fbuilder span.uh {
+    font-size: 19px;
+}
+
+div .cp_cff_pastel #fbuilder .fields:not(.section_breaks) span.uh {
+    color: black;
+}
+
+div .cp_cff_pastel #fbuilder input[type="text"]{
+	color: black;
+}
+
+/* Calculatro input number*/
+
+/* input font color*/
+div .cp_cff_pastel #fbuilder input[type="number"]{
+	color: black;
+}
+/* input field background color */
+div .cp_cff_pastel #fbuilder  input[type="number"]{
+    border: 0.5px solid #a59999;
+	border-radius: 4px;
+	background-color: white;
+}
+
+
+div .cp_cff_pastel #fbuilder  input[type="number"]:hover{
+	background-color: white;
+}
+
+
+div .cp_cff_pastel #fbuilder  input[type="number"]:focus{
+	background-color: white;
+}
+
+/* The result feild */
+
+div .cp_cff_pastel #fbuilder input[type="text"] {
+    color: black;
+	background: #f9fcfe;
+}
+
+div .cp_cff_pastel #fbuilder input[type="text"]:focus {
+    color: black;
+	background: #f9fcfe;
+}
+
+div .cp_cff_pastel #fbuilder input[type="text"]:hover {
+    color: black;
+	background: #f9fcfe;
+}
+div .cp_cff_pastel #fbuilder input[type="text"]:visited {
+    color: black;
+	background: #f9fcfe;
+}
