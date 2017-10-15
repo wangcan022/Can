@@ -1,0 +1,5 @@
+h5{ font-family: 'Helvetica Neue', sans-serif; font-size: 150%; font-weight: 100; line-height: 50px; letter-spacing: 1px; padding: 0; border-bottom: 1px groove #555; }
+a { color: #791020; transition: .5s; -moz-transition: .5s; -webkit-transition: .5s; -o-transition: .5s; }
+
+
+a:hover { color: #a03c21 }
