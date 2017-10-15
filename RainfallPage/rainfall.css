@@ -1,0 +1,48 @@
+input[type="submit"]#searchID{ 
+    background: #53bca4;
+	position: relative;
+    margin: 10px 1px;
+    border: none;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 400;
+    white-space: normal;
+    letter-spacing: 0;
+    text-transform: uppercase;
+	width: 93px;
+	height: 45px;
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    padding: initial;
+    }
+
+
+input[type="submit"]:hover{ 
+    background: #0099e6;
+	position: relative;
+    margin: 10px 1px;
+    border: none;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 400;
+    white-space: normal;
+    letter-spacing: 0;
+    text-transform: uppercase;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+	width: 93px;
+    }
+div#rainfall-data td input[type="text"]{
+	border: 0.5px solid #a59999;
+	border-radius: 4px;
+    background: white;
+	width: 50%;
+}
+
+div#rainfall-data td label{
+	font-size: 130%;
+	text-align: center;
+}
+
+div#rainfall-data td {
+	text-align: center;
+}
